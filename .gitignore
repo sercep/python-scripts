@@ -1,6 +1,2 @@
-/replace_newlines_with_tabs_in_file/input.txt
-/replace_newlines_with_tabs_in_file/output.txt
-/extract_bracketed_data/input1.txt
-/extract_bracketed_data/input2.txt
-/extract_bracketed_data/output1.txt
-/extract_bracketed_data/output2.txt
+input*.txt
+output*.txt

@@ -1,0 +1,2 @@
+## remove_text_before_colons_in_file
+for convert https://rym.fm/discussion/music/the-official-rym-chart-update-discussion-thread-charts-updated-weekly/1908/#post_9969460 to https://rateyourmusic.com/charts/popular/album/all-time/a:[]/ format
