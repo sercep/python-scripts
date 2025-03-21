@@ -27,7 +27,6 @@ def write_output_to_file(filename, data):
     with open(filename, 'w', encoding='utf-8') as file:
         file.write("|     |\n| --- |\n" + '\n'.join(f"| {entry} |" for entry in data))
 
-# Чтение путей из файла
 input_filename = "input.txt"
 output_filename = "output.txt"
 paths = read_paths_from_file(input_filename)
